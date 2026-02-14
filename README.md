@@ -1,4 +1,4 @@
-# Can 2016 Election Results Predict a State's COVID-19 Cases?
+# Comparing-2016-Election-And-COVID
 Oct 2020 | Can 2016 Election Results Predict a State's COVID-19 Cases?
 
 In this project, we determine if there is any correlation between the spread of COVID-19 and the results of the 2016
